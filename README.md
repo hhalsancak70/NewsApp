@@ -11,9 +11,6 @@ A modern Flutter news application that fetches real-time news using the NewsAPI.
 - 🔍 Detailed news view
 - 💫 Hero animations for smooth transitions
 
-## Screenshots
-
-[Add your app screenshots here]
 
 ## Getting Started
 
